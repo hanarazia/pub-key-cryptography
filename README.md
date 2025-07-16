@@ -1,6 +1,6 @@
 # Public Key Cryptography (C)
 
-The purpose of this assignment is to understand cryptography by generating SS public and private key pairs which can then be used to encrypt and decrypt files. The files will be encrypted using a public key and then decrypted using the corresponding private key. This assignment implements the GNU MP arithmetic library and Schmidt-Samoa algorithm.
+The purpose of this project is to understand cryptography by generating SS public and private key pairs which can then be used to encrypt and decrypt files. The files will be encrypted using a public key and then decrypted using the corresponding private key. This assignment implements the GNU MP arithmetic library and Schmidt-Samoa algorithm.
 
 ## How to Run Locally (Requires: C Compiler, GMP Library)
 
