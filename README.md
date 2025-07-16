@@ -5,10 +5,10 @@ The purpose of this project is to understand cryptography by generating SS publi
 ## How to Run Locally (Requires: C Compiler, GMP Library)
 
 1. Clone the repo  
-   ```
-   git clone https://github.com/yourusername/pub-key-cryptography.git
-   cd pub-key-cryptography
-   ```
+  ```
+  git clone https://github.com/yourusername/pub-key-cryptography.git
+  cd pub-key-cryptography
+  ```
 2. Build the project
   ```
   make
